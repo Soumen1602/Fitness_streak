@@ -1,4 +1,6 @@
 # Fitness_streak
+# ID: CBP25 (student inovation) 'Fitness & sports',
+ideas that can boost fitness activities and asist in keeping fit
 # hackathon_project-fit-streak-
 1.Project Description
 ->We are making a webpage where we raise awareness about why fitness is necessary in a person's lives.
